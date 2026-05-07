@@ -37,3 +37,23 @@ To become a successful **UI/UX And Front-end  Developer**
 - instagram
 - youtube
 - Free Fire
+----------------------------------------------
+## 👨‍💻 Name
+**Chenchu Sasank Pendela**
+
+## 📍 City
+*Vinukonda*, Andhra Pradesh**
+
+## 🎯 Career Goal
+To become a successful **Front-end Developer and Data Analyst** 
+
+## 💡 Hobby
+- To Play Badminton
+- Travelling
+- Speaking in the Market  
+
+## ❤️ Favorite App
+- Moj
+- YouTube
+- Instagram
+- SnapChat
